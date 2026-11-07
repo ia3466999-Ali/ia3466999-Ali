@@ -4,6 +4,8 @@
 Presidency University, Bengaluru, India
 
 🌐 **Live Portfolio Website:** [https://ia3466999-ali.github.io/portfolio/](https://ia3466999-ali.github.io/portfolio/)  
+💼 **LinkedIn:** [linkedin.com/in/imran-ali-370b6b29b](https://www.linkedin.com/in/imran-ali-370b6b29b)  
+📸 **Instagram:** [@meimran.ali](https://www.instagram.com/meimran.ali)  
 📧 **Email:** [ia3466999@gmail.com](mailto:ia3466999@gmail.com)
 
 ---
@@ -47,7 +49,9 @@ Presidency University, Bengaluru, India
 
 ---
 
-### Contact & Affiliation
+### Contact & Connect
 - **Live Portfolio:** [https://ia3466999-ali.github.io/portfolio/](https://ia3466999-ali.github.io/portfolio/)
+- **LinkedIn:** [https://www.linkedin.com/in/imran-ali-370b6b29b](https://www.linkedin.com/in/imran-ali-370b6b29b)
+- **Instagram:** [https://www.instagram.com/meimran.ali](https://www.instagram.com/meimran.ali)
 - **Email:** [ia3466999@gmail.com](mailto:ia3466999@gmail.com)
 - **Institution:** School of Computer Science & Engineering, Presidency University, Bengaluru
