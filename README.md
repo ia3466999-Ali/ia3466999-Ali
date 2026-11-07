@@ -1,7 +1,6 @@
 # Imran Ali
 
-**Undergraduate Engineer · B.Tech in Artificial Intelligence & Data Science**  
-Presidency University, Bengaluru, India
+B.Tech in AI & Data Science @ Presidency University, Bengaluru · Full-Stack & Machine Learning
 
 [Portfolio Website](https://ia3466999-ali.github.io/portfolio/) • [Email](mailto:ia3466999@gmail.com) • [GitHub](https://github.com/ia3466999-Ali)
 
